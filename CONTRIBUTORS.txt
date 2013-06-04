@@ -1,1 +1,1 @@
-- Izhar Firdaus (kagesenshi) - packaged into collective.js
+- Izhar Firdaus (kagesenshi) - initial collective.js package
